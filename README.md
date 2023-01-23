@@ -1,4 +1,4 @@
-# Prostate-Gland-Segmentation-Based-on-Deep-Learning-in-T2-Weighted-MRI
+# Multiple Mieloma Cells Segmentation Based on Deep Learning in Digital Pathology Images
 Three individually trained densenet201 architectures ensembled to build a fully automated method for multiple mieloma cells segmentation in stained whole slide digital images. Keras library has been used. Read REPORT.pdf for more detailed technical description of the project.
 
 This project is licensed under the terms of the MIT license.
