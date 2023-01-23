@@ -6,6 +6,6 @@ This project is licensed under the terms of the MIT license.
 
 ## Attached files
 In ./Attachments/ subfolder (please read the report -REPORT.pdf-  before for a better understanding of attachments' description):
-* s01_pre-processing for training: script performing the pre-processing of the images;
-* s02_training script: script implementing the training of the individual networks
-* s03_testing script: script loading the trained models, ensemobling them, predicting the segmentation masks and computing the performances of the model on the dataset partitions.
+* s01_pre-processing for training.ipynb: script performing the pre-processing of the images;
+* s02_training script.ipynb: script implementing the training of the individual networks
+* s03_testing script.ipynb: script loading the trained models, ensemobling them, predicting the segmentation masks and computing the performances of the model on the dataset partitions.
